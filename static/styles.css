@@ -1,0 +1,23 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #0066cc;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.contenido {
+    padding-left: 10%;
+}
+.precio {
+    color: green;
+}
+.descripcion {
+    padding-right: 10%;
+}
+/* Agrega más estilos según sea necesario */
